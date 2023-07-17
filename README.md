@@ -1,3 +1,3 @@
 # therapistGPTdemo
 
-A test project using OpenAI's ChatGPT API to create a voice therapist. Based on a project by Part Time Larry and enabled through Gradio components.
+A test project using OpenAI's ChatGPT API to create a voice therapist. Based on a tutorial by Part Time Larry and enabled through Gradio components.
