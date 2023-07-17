@@ -1,7 +1,7 @@
 import gradio as gr
 import openai, config, subprocess
 
-messages = [{"role": "system", "content": '//engineer prompt for a therapy session'}]
+messages = [{"role": "system", "content": '//engineer the best prompt to allows the user to have a natural sounding therapy session'}]
 
 def transcribe(audio):
     global messages
